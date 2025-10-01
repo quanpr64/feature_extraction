@@ -106,7 +106,8 @@ Pathology Image Files. E.g.
 
 ## Troubleshooting
 
-
+## Reference
+https://www.kaggle.com/code/jbschiratti/winning-submission
 
 ## License
 Following UT Southwestern Office for Technology Development, the project is using the license from The University of Texas Southwestern Medical Center.
