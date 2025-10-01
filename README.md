@@ -3,7 +3,7 @@
 # Foundation Model Feature Extraction - QBRC Baseline
 
 
-Author: Peiran Ruan (peiran.ruan@utsouthwestern.edu)
+Author: Peiran Quan (peiran.quan@utsouthwestern.edu)
 
 
 ## Introduction
