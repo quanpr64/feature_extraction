@@ -1,0 +1,8 @@
+pandas
+openslide-python
+opencv-python
+scikit-image
+torch
+torchvision
+transformers
+timm
