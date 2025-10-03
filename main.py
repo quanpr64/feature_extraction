@@ -278,7 +278,7 @@ def _extract_from_single_slide(slide_path,
     
     """Runs feature extraction for a SINGLE slide."""
     if not temp_dir:
-        temp_dir = os.path.join(os.getcwd(), uuid.uuid1())
+        temp_dir = os.path.join(os.getcwd(), str(uuid.uuid1()))
     if not os.path.exists(temp_dir):
         os.makedirs(temp_dir)
         
